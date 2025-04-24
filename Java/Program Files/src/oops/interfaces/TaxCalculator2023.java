@@ -1,0 +1,8 @@
+package oops.interfaces;
+
+public class TaxCalculator2023 implements TaxCalculator{
+    @Override
+    public double calculateTax() {
+        return 0;
+    }
+}
